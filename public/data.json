@@ -1,0 +1,85 @@
+[
+    {
+        "id": 45484515,
+        "name": "ElectriX",
+        "technology": [
+            "JavaScript (ES6)",
+            "ReactJS",
+            "Tailwind",
+            "Firebase",
+            "NodeJS",
+            "Express",
+            "MongoDB",
+            "Stripe"
+        ],
+        "details": "ElectriX is a manufacturer website with different type of tools.",
+        "featured": [
+            "For a beautiful user interface used ReactJS.",
+            "Utilized NodeJS to create the REST API and implemented to load the services in the home page.",
+            "Implemented stripe payment to complete the payment of the selected service.",
+            "Applied a dashboard for users where he/she can see the orders and give a review.",
+            "Applied a dashboard for super admin who can add and manage services, Make another admin with an email address."
+        ],
+        "picture": "https://i.ibb.co/TmSLhnp/Capture.png",
+        "projectImg": "https: //i.ibb.co/cN9QHk7/eletrix.png"
+    },
+    {
+        "id": 782787217,
+        "name": "Pocket Gadget",
+        "technology": [
+            "JavaScript (ES6)",
+            "ReactJS",
+            "Tailwind",
+            "Firebase",
+            "NodeJS",
+            "Express",
+            "MongoDB"
+        ],
+        "details": "Pocket Gadget is a warehouse management website with different kind of products",
+        "featured": [
+            "Implemented a beautiful user interface with ReactJS.",
+            "Utilized NodeJS to create the REST API and implemented to load the products in the home page.",
+            "Implemented an authentication feature using firebase to checkout the selected product",
+            "Admin can manage a branch of products",
+            "Admin can update & remove products."
+        ],
+        "picture": "https://i.ibb.co/gV8BGfg/Screenshot-2022-05-25-224504.png",
+        "projectImg": "https: //i.ibb.co/Pz5Z2bF/pocket-gadget.png"
+    },
+    {
+        "id": 6534534,
+        "name": "Muscle Maniacs",
+        "technology": [
+            "JavaScript (ES6)",
+            "ReactJS",
+            "Tailwind",
+            "Firebase"
+        ],
+        "details": "Muscle Maniacs is a website where you can buy a service or a product.",
+        "featured": [
+            "Implemented fake JSON data to load the services & products.",
+            "Applied an email-password and google authentication system.",
+            "Applied validation system for email and password.",
+            "Implemented a destination page to see the available products."
+        ],
+        "picture": "https://i.ibb.co/dgstbyz/Screenshot-2022-05-25-224320.png",
+        "projectImg": "https: //i.ibb.co/n7CNqM4/muscle-maniacs.png"
+    },
+    {
+        "id": 45484515,
+        "name": "Review Studio",
+        "technology": [
+            "JavaScript (ES6)",
+            "ReactJS",
+            "Tailwind"
+        ],
+        "details": "At Review Studio we are dedicated to reading and reviewing the very best fantasy books for both children and adults (both young and old).",
+        "featured": [
+            "For a beautiful user interface used ReactJS.",
+            "Implemented fake JSON data to load the books & reviews.",
+            "Implemented a destination page to see the sales & revenue."
+        ],
+        "picture": "https://i.ibb.co/51CWRrp/Screenshot-2022-05-25-224127.png",
+        "projectImg": "https: //i.ibb.co/W6mLFqn/review-studio.png"
+    }
+]

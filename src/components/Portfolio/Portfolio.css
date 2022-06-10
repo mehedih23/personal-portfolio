@@ -1,0 +1,17 @@
+.projectElectrix{
+    
+        position: relative;
+        width: 566px;
+        height: 268px;
+        background: url("../../assets/eletrix.png") no-repeat;
+        background-size: cover;
+        background-position-y: 0%;
+        transition: background 3s ease-in-out;
+        cursor: pointer;
+        overflow: hidden;
+    
+}
+
+.projectElectrix:hover{
+     background-position-y: 100%;
+}

@@ -24,10 +24,10 @@ const Contact = () => {
     };
     return (
         <div
-            class="mockup-window bg-secondary my-4 h-[530px]"
+            className="mockup-window bg-secondary my-4 max-h-fit md:h-[530px]"
             data-aos="fade-down"
         >
-            <div class="px-4 bg-secondary h-[480px] overflow-auto">
+            <div class="px-4 bg-secondary max-h-fit md:h-[480px] my-8 overflow-auto">
                 <div className='text-center'>
                     <p className='text-accent text-xl mb-6'>Feel Free To Contact Me Anytimes</p>
                     <h1 className='text-5xl text-white mb-8'>My <span className='text-info'>Contact</span></h1>
