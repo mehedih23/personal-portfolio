@@ -5,6 +5,7 @@ import { BsFillPersonFill } from 'react-icons/bs';
 import { IoMdCall } from 'react-icons/io';
 import CustomLink from '../CustomLink/CustomLink';
 import { Outlet } from 'react-router-dom';
+import { FaBlog } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
@@ -22,6 +23,9 @@ const Navbar = () => {
                     </CustomLink>
                     <CustomLink to='/contact'>
                         <IoMdCall className='text-2xl'></IoMdCall>
+                    </CustomLink>
+                    <CustomLink to='/blog'>
+                        <FaBlog className='text-2xl'></FaBlog>
                     </CustomLink>
                 </div>
             </div>

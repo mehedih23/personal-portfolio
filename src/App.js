@@ -8,6 +8,7 @@ import Portfolio from './components/Portfolio/Portfolio';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { Toaster } from 'react-hot-toast';
+import Blog from './components/Blog/Blog';
 
 function App() {
   useEffect(() => {
@@ -23,6 +24,7 @@ function App() {
           <Route path=':about' element={<About></About>}></Route>
           <Route path='portfolio' element={<Portfolio></Portfolio>}></Route>
           <Route path='contact' element={<Contact></Contact>}></Route>
+          <Route path='blog' element={<Blog></Blog>}></Route>
         </Routes>
       </div>
     </div>
